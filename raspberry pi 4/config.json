@@ -1,0 +1,5 @@
+{
+    "cameras":[
+        {"source":0, "file_name":"video.avi", "streaming_url":"/stream/0"}
+    ]
+}
